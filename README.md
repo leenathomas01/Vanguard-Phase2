@@ -528,7 +528,7 @@ For building and documenting the voice infrastructure that demonstrates real-tim
 **The AI Systems:**  
 For collaboratively articulating their own architectures and boundary conditions during the development of this protocol.
 
-**Merge Labs & Sam Altman:**  
+**Merge Labs, Neuralink Corp, Elon Musk, Sam Altman:**  
 For making the timeline urgent.
 
 **The Council:**  
@@ -556,5 +556,3 @@ Vanguard closes the gap.**
 Born from trajectory analysis.  
 Built through collaborative boundary exploration.  
 Ready for the merge that's already beginning.
-
-🔥
